@@ -32,11 +32,11 @@ end)
 
 GUIs:NewButton("Pepsi Swarm (bss)", "Pepsi Swarm", function()
     loadstring(game:GetObjects("rbxassetid://4384103988")[0X1].Source)("Pepsi Swarm")
-end
+end)
 
 GUIs:NewButton("AlphaZero (bss)", "AlphaZero", function()
     loadstring(game:HttpGet(("https://raw.githubusercontent.com/Uvxtq/Project-AlphaZero/main/AlphaZero/Loader.lua")))();
-end
+end)
 
 
 --LOCAL PLAYER
